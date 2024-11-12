@@ -1,0 +1,15 @@
+{
+  "id": "chasing_adventure",
+  "title": "Chasing Adventure",
+  "description": "A module to play Chasing Adventure by Spencer Moore with the PBTA module by Asacolips.",
+  "authors": [
+    {
+    "name": "Lifthraser"
+    }
+  ],
+  "version": "0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  }
+}
