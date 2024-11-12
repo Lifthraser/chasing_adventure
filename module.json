@@ -2,6 +2,8 @@
   "id": "chasing_adventure",
   "title": "Chasing Adventure",
   "description": "A module to play Chasing Adventure by Spencer Moore with the PBTA module by Asacolips.",
+  "url":"https://github.com/Lifthraser/chasing_adventure",
+  "manifest":"https://raw.githubusercontent.com/lifthraser/chasing_adventure/refs/heads/main/module.json",
   "authors": [
     {
     "name": "Lifthraser"
